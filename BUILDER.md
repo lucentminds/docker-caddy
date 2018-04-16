@@ -8,7 +8,7 @@ Docker image for building Caddy binaries.
 Example
 
 ```
-docker run -v $(pwd):/install -e PLUGINS=git,filemanager abiosoft/caddy:builder
+docker run -v $(pwd):/install -e PLUGINS=git,filemanager lucentminds/caddy:builder
 
 ```
 
