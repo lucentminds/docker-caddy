@@ -1,5 +1,7 @@
 # caddy
 
+This repo based on https://github.com/abiosoft/caddy-docker.
+
 A [Docker](https://docker.com) image for [Caddy](https://caddyserver.com). This image includes the [git](https://caddyserver.com/docs/http.git) plugin. Plugins can be configured via the [`plugins` build arg](#custom-plugins).
 
 [![](https://img.shields.io/badge/version-0.10.12-blue.svg)](https://github.com/mholt/caddy/tree/v0.10.12)
